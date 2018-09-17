@@ -2,27 +2,23 @@
 
 
 
-Some of the features of this system are:
+Employee Details Management System
 
+The Purpose of this Technical Challenge is to modernize our Employee Details Management System. 
+ Employee Management System was created 10 years ago to manage employee data. This system was created to record all data of the employees.
 
+Some of the features of the legacy system are:
+•	HR Admin can add employee details.
+•	HR Admin users can import employee details using CSV file.
+•	HR Admin users can edit and add employee details (Employee details will be updated only in DataGridView).
+•	HR Admin users can calculate the total wage based on worked hour and hourly wage rate.
+•	HR Admin users can generate report on pie-chart based department's total wage.
+•	HR Admin users can delete the employee from DataGridView.
+•	Employees can edit their personal details any time.
 
-1. System users can `add employee details`.
+#####Mission 
+Modernize our Monolithic application so that we scale this application to 50k employees across united states potentially using cloud infrastructure. Here is a mockup of current Inventory
 
-
-2. System users can `import employee details using CSV file`.
-
-
-3. System users can `edit and updetails employee details` (Employee details will be updated only in dataGridView).
-
-
-4. System users can `calculate the total wage` based on worked hour and hourly wage rate.
-
-
-
-5. System users can `generate report on pie-chart` based department's total wage.
-
-
-6. System users can `delete` the employee from dataGridView.
 
 ---
 ### Screenshots
