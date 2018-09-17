@@ -16,7 +16,7 @@ Some of the features of the legacy system are:
 •	HR Admin users can delete the employee from DataGridView.
 •	Employees can edit their personal details any time.
 
-#####Mission 
+##### Mission 
 Modernize our Monolithic application so that we scale this application to 50k employees across united states potentially using cloud infrastructure. Here is a mockup of current Inventory
 
 
