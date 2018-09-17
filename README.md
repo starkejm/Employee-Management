@@ -2,8 +2,6 @@
 
 
 
-Employee Details Management System
-
 The Purpose of this Technical Challenge is to modernize our Employee Details Management System. 
  Employee Management System was created 10 years ago to manage employee data. This system was created to record all data of the employees.
 
