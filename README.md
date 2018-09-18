@@ -2,20 +2,13 @@
 
 
 
-The Purpose of this Technical Challenge is to modernize our Employee Details Management System. 
- Employee Management System was created 10 years ago to manage employee data. This system was created to record all data of the employees.
+The Purpose of this Technical Challenge is to modernize our Employee Management System. 
+ This legacy system was created 10 years ago to manage employee data. 
 
-Some of the features of the legacy system are:
-•	HR Admin can add employee details.
-•	HR Admin users can import employee details using CSV file.
-•	HR Admin users can edit and add employee details (Employee details will be updated only in DataGridView).
-•	HR Admin users can calculate the total wage based on worked hour and hourly wage rate.
-•	HR Admin users can generate report on pie-chart based department's total wage.
-•	HR Admin users can delete the employee from DataGridView.
-•	Employees can edit their personal details any time.
+
 
 ##### Mission 
-Modernize our Monolithic application so that we scale this application to 50k employees across united states potentially using cloud infrastructure. Here is a mockup of current Inventory
+Modernize our Monolithic application so that we scale this application to 50k employees across united states using cloud infrastructure. Here is a mockup of the legacy system.
 
 
 ---
